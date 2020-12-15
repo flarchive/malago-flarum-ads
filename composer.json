@@ -1,0 +1,52 @@
+{
+    "name": "andre-pullinen/ads",
+    "description": "Origin by Flagrow. Bombarding your users with ads.",
+    "keywords": [
+        "flarum", "flagrow",
+        "ads", "advertising"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniël Klabbers",
+            "email": "daniel+flarum@klabbers.email",
+            "homepage": "http://hyn.me"
+        },
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com"
+        },
+        {
+            "name": "Andre Pullinen",
+            "email": "andre.pullinen@gmail.com",
+            "homepage": "https://github.com/andre-pullinen"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/andre-pullinen/ads/issues",
+        "source": "https://github.com/andre-pullinen/ads"
+    },
+    "require": {
+        "flarum/core": "^0.1.0-beta.14"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Flagrow Ads",
+            "icon": {
+                "name": "fas fa-audio-description",
+                "backgroundColor": "#f4f4f4",
+                "color": "#5f4bb6"
+            }
+        },
+        "flagrow": {
+            "discuss": "https://discuss.flarum.org/d/4785"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Flagrow\\Ads\\": "src/"
+        }
+    }
+}
