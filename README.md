@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of malago/flarum-ads.** Not for installation: use [Packagist](https://packagist.org/packages/malago/flarum-ads) or the [upstream repository](https://github.com/malago86/flarum-ads).
 
-**0** versions archived · Latest: [`0.3.2`](https://github.com/flarchive/malago-flarum-ads/tree/archive/v0.3.2) · License: `MIT` · Flarum: `^1.0.0`
+**4** versions archived · Latest: [`0.3.2`](https://github.com/flarchive/malago-flarum-ads/tree/archive/v0.3.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.2.8` | 2020-12-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/malago-flarum-ads/tree/archive/v0.2.8) |
+| `0.3.0` | 2021-05-31 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-ads/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-06-03 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-ads/tree/archive/v0.3.1) |
+| `0.3.2` | 2021-07-07 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-ads/tree/archive/v0.3.2) |
 
 Catalog entry: [packages/malago-flarum-ads.json](https://github.com/flarchive/archive-index/blob/main/packages/malago-flarum-ads.json)
 
